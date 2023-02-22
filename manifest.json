@@ -8,27 +8,27 @@
     "description": "Best Camera Ever Created By Me",
     "icons": [
         {
-            "src": "./assets/images/Icons-48.png",
+            "src": "./assets/image/Icons-48.png",
             "sizes": "48x48"
         },
         {
-            "src": "./assets/images/Icons-72.png",
+            "src": "./assets/image/Icons-72.png",
             "sizes": "72x72"
         },
         {
-            "src": "./assets/images/Icons-96.png",
+            "src": "./assets/image/Icons-96.png",
             "sizes": "96x96"
         },
         {
-            "src": "./assets/images/Icons-144.png",
+            "src": "./assets/image/Icons-144.png",
             "sizes": "144x144"
         },
         {
-            "src": "./assets/images/Icons-192.png",
+            "src": "./assets/image/Icons-192.png",
             "sizes": "192x192"
         },
         {
-            "src": "./assets/images/Icons-512.png",
+            "src": "./assets/image/Icons-512.png",
             "sizes": "512x512"
         }
     ]
