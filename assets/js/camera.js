@@ -6,9 +6,14 @@ import {
     switchBtn,
     canvas,
     restartBtn,
-    mode,
 } from "./constants.js"
 
+export let mode = "user"
+
+
+export const changeMode = (arg) => {
+    mode = mode === "user" ? "environment" : "user"
+}
 
 export const closeCamera = () => {
     const tracks = player.srcObject.getVideoTracks()
@@ -24,6 +29,7 @@ export const closeCamera = () => {
     canvas.classList.add("d-none")
     restartBtn.classList.add("d-none")
 }
+
 export const openCamera = async () => {
     // handleCamera Strart
     if (navigator.mediaDevices) {

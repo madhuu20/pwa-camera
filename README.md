@@ -1,7 +1,30 @@
 
+## PWA Camera
+
+Open Camera: This feature enables users to access the camera on their device, allowing them to take photos and videos.
+
+Close Camera: This feature gives users the ability to close the camera and exit from the camera mode.
+
+Take a Photo: This feature allows users to capture still images and save them to their device.
+
+Switch Camera: This feature enables users to switch between the rear-facing and front-facing camera if their device supports it.
+## Demo
+
+ [Demo PWA Camera](t https://madhuu20.github.io/pwa-camera/)
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-# camera
+
+
+# Camera
 
 - camera-pwa
  §§ 1000
