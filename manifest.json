@@ -1,9 +1,9 @@
 {
-    "name": "PWA CAMERA",
-    "short_name": "Camera",
+    "name": "PWA-CAMERA",
+    "short_name": "CAMERA",
     "start_url": "/pwa-camera",
     "background_color": "red",
-    "theme_color": "magenta",
+    "theme_color": "green",
     "display": "standalone",
     "description": "Best Camera Ever Created By Me",
     "icons": [
