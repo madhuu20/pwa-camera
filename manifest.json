@@ -4,7 +4,7 @@
     "start_url": "/pwa-camera",
     "background_color": "red",
     "theme_color": "magenta",
-    "display": "satndalone",
+    "display": "standalone",
     "description": "Best Camera Ever Created By Me",
     "icons": [
         {
