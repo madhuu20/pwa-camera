@@ -1,6 +1,6 @@
 {
     "name": "PWA CAMERA",
-    "short_name": "camera",
+    "short_name": "Camera",
     "start_url": "/pwa-camera",
     "background_color": "red",
     "theme_color": "magenta",
